@@ -31,12 +31,6 @@ It answers only health-related questions and provides simple, educational respon
 - Gradio 🎛️  
 - Google Generative AI (Gemini API) 🤖  
 
----
 
-## 📦 Installation
 
-Clone the repository:
 
-```bash
-git clone https://github.com/your-username/health-chatbot.git
-cd health-chatbot
